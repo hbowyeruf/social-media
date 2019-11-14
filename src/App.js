@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import ChatWindow from './components/ChatWindow';
-import ChatWindow from './components/AssociatesList';
+import AssociatesList from './components/AssociatesList';
 
 function App() {
   return (
