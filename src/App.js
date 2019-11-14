@@ -15,11 +15,11 @@ function App() {
                  IM window between 2 people vs group window
         </li>
         <li> dhanesh
-          Associates List: 
+          Associates List: <AssociatesList someProp="Associates"/>
           Notes: need to be able to invite to chat, start new chat, see profile, send offline message
                  need API to update automatically (started work, working in 1 hr, etc)
         </li>
-        <li> 
+        <li>
           File Transfer:
           Notes: offline and online
         </li>
